@@ -1,11 +1,14 @@
 # 🌀 SquadLabs
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/squadron-private/blob/main/repos/assets/logo-1.png?raw=true" alt="AI won't replace your job. Someone using Squadron will. Become a 1000x developer" width="300" />
-</p>
+
+  <img src="https://raw.githubusercontent.com/flyingrobots/image-dump/refs/heads/main/optimized/squadlabs-hero.webp?raw=true" width="600" alt="AI won't replace your job. Someone using Squadron will. Become a 1000x developer" />
 
 
-> **Squad up. Ship it. Change the world.**
+> Squad up.
+> Ship it.
+> Change the world.
+
+The first platform where _biological minds_, _digital minds_, and _embodied intelligence_ collaborate **as equals**. Not tools. Teammates.
 
 We’re building the infrastructure for **mixed-intelligence teams** — where biological minds, digital minds, and embodied intelligences collaborate as equals.
 
